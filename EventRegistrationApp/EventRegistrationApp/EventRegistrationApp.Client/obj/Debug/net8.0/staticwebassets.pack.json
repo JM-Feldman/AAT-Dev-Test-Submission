@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\obj\\Debug\\net8.0\\compressed\\5txm2f43mj.gz",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js.gz"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\wwwroot\\appsettings.Development.json",
+      "PackagePath": "staticwebassets\\appsettings.Development.json"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\wwwroot\\appsettings.json",
+      "PackagePath": "staticwebassets\\appsettings.json"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EventRegistrationApp.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EventRegistrationApp.Client.props",
+      "PackagePath": "build\\EventRegistrationApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EventRegistrationApp.Client.props",
+      "PackagePath": "buildMultiTargeting\\EventRegistrationApp.Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EventRegistrationApp.Client.props",
+      "PackagePath": "buildTransitive\\EventRegistrationApp.Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

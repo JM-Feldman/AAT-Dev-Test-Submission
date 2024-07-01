@@ -1,0 +1,51 @@
+﻿@page "/edit-event/{eventId:int}"
+@using EventRegistrationApp.Data
+@using EventRegistrationApp.Models
+@inject DataContext DbContext
+@inject NavigationManager Navigation
+
+<h3>Edit Event</h3>
+
+@if (editEvent == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <EditForm Model="editEvent" OnValidSubmit="HandleValidSubmit">
+        <DataAnnotationsValidator />
+        <ValidationSummary />
+
+        <div class="form-group">
+            <label for="eventName">Event Name</label>
+            <InputText id="eventName" class="form-control" @bind-Value="editEvent.EventName" />
+        </div>
+        <div class="form-group">
+            <label for="numSeats">Seats Available</label>
+            <InputNumber id="numSeats" class="form-control" @bind-Value="editEvent.NumSeatsAvailable" />
+        </div>
+
+        <button type="submit" class="btn btn-primary">Save</button>
+    </EditForm>
+}
+
+@code {
+    [Parameter] public int eventId { get; set; }
+    private Event editEvent;
+
+    protected override async Task OnInitializedAsync()
+    {
+        editEvent = await DbContext.events.FindAsync(eventId);
+        if (editEvent == null)
+        {        
+            Navigation.NavigateTo("/events");
+        }
+    }
+
+    private async Task HandleValidSubmit()
+    {
+        DbContext.events.Update(editEvent);
+        await DbContext.SaveChangesAsync();
+        Navigation.NavigateTo("/events");
+    }
+}

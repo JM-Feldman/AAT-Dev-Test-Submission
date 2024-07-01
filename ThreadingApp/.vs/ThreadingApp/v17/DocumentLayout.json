@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\AAT Dev Test\\ThreadingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C9BAC2B-4408-47F0-8B9A-48FB1B815363}|ThreadingApp\\ThreadingApp.csproj|c:\\users\\james\\desktop\\aat dev test\\threadingapp\\threadingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C9BAC2B-4408-47F0-8B9A-48FB1B815363}|ThreadingApp\\ThreadingApp.csproj|solutionrelative:threadingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\ThreadingApp\\ThreadingApp\\Program.cs",
+              "RelativeDocumentMoniker": "ThreadingApp\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\ThreadingApp\\ThreadingApp\\Program.cs",
+              "RelativeToolTip": "ThreadingApp\\Program.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAgwFkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T11:57:55.929Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

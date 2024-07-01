@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\EventRegistrationApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\EventRegistrationApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.EventRegistrationApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.EventRegistrationApp.props",
+      "PackagePath": "build\\EventRegistrationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.EventRegistrationApp.props",
+      "PackagePath": "buildMultiTargeting\\EventRegistrationApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.EventRegistrationApp.props",
+      "PackagePath": "buildTransitive\\EventRegistrationApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

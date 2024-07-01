@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\listevents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\listevents.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\createevent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\createevent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\createaccount.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\createaccount.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\login.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\routes.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\app.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\editevent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\pages\\events\\editevent.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\components\\layout\\mainlayout.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1DA760B-24CD-4DA7-BF9A-DFD0959512F7}|EventRegistrationApp\\EventRegistrationApp.Client\\EventRegistrationApp.Client.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E1DA760B-24CD-4DA7-BF9A-DFD0959512F7}|EventRegistrationApp\\EventRegistrationApp.Client\\EventRegistrationApp.Client.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp.client\\_imports.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\eventregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|c:\\users\\james\\desktop\\aat dev test\\eventregistrationapp\\eventregistrationapp\\eventregistrationapp\\migrations\\20240701074618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B3EF10B1-A2AC-411B-AC22-A569280F826F}|EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj|solutionrelative:eventregistrationapp\\eventregistrationapp\\migrations\\20240701074618_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Routes.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Routes.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Routes.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Routes.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Routes.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T11:02:11.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\App.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\App.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\App.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\App.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T11:02:08.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Login.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Login.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Login.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Login.razor",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T10:46:57.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CreateAccount.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\CreateAccount.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\CreateAccount.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\CreateAccount.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\CreateAccount.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T10:46:46.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Home.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Home.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T10:41:56.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Models\\User.cs",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Models\\User.cs",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T09:46:32.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WorkloadManifest.targets",
+              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets",
+              "ToolTip": "C:\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets",
+              "ViewState": "AQIAAKQAAAAAAAAAAIAwwLkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-07-01T08:26:43.673Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\NavMenu.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:16:34.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MainLayout.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\MainLayout.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\MainLayout.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\MainLayout.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:15:43.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EditEvent.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\EditEvent.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\EditEvent.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\EditEvent.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\EditEvent.razor",
+              "ViewState": "AQIAAA8AAAAAAAAAAIBJwCMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:13:11.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateEvent.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\CreateEvent.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\CreateEvent.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\CreateEvent.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\CreateEvent.razor",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T08:11:39.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListEvents.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:59:39.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Imports.razor",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\_Imports.razor",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp.Client\\_Imports.razor",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.Client\\_Imports.razor",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp.Client\\_Imports.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T07:53:11.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20240701074618_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Migrations\\20240701074618_InitialCreate.cs",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Migrations\\20240701074618_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Migrations\\20240701074618_InitialCreate.cs",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Migrations\\20240701074618_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:46:18.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Program.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Program.cs",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T07:28:24.346Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\appsettings.json",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\appsettings.json",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-28T12:32:43.679Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Data\\DataContext.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Data\\DataContext.cs",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:29:56.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Event.cs",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Models\\Event.cs",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Models\\Event.cs",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T12:26:48.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "EventRegistrationApp.csproj",
+              "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj",
+              "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj",
+              "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj",
+              "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-28T12:26:17.557Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+﻿@page "/login"
+@using EventRegistrationApp.Data
+@using EventRegistrationApp.Models
+@inject NavigationManager Navigation
+@inject DataContext DbContext
+
+<h3>Login</h3>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <p class="text-danger">@errorMessage</p>
+}
+
+<EditForm Model="loginModel" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="userName">Username</label>
+        <InputText id="userName" class="form-control" @bind-Value="loginModel.UserName" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" class="form-control" type="password" @bind-Value="loginModel.PasswordHash" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Login</button>
+</EditForm>
+
+@code {
+    private User loginModel = new User();
+    private string errorMessage = "";
+
+    private async Task HandleValidSubmit()
+    {
+        var currentUser = DbContext.users.SingleOrDefault(x => x.UserName == loginModel.UserName);
+
+        if (currentUser == null || !BCrypt.Net.BCrypt.Verify(loginModel.PasswordHash, currentUser.PasswordHash))
+        {
+            errorMessage = "Username or password not found.";
+        }
+        else
+        {           
+            errorMessage = "";
+           
+            Navigation.NavigateTo("/events");
+        }
+    }
+}
+

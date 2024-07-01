@@ -1,0 +1,30 @@
+﻿@page "/"
+@using EventRegistrationApp.Data
+@using EventRegistrationApp.Models
+@using Microsoft.EntityFrameworkCore
+@inject DataContext DbContext
+@inject NavigationManager Navigation
+
+<PageTitle>Home</PageTitle>
+
+<h1>Event Registration</h1>
+
+<h3>Login or create an account to get started!</h3>
+
+<button class="btn btn-success" @onclick="CreateAccount">Create New Account</button>
+
+<button class="btn btn-success" @onclick="Login">Login</button>
+
+@code {
+
+    private void CreateAccount()
+    {
+        Navigation.NavigateTo("/create-account");
+    }
+
+    private void Login()
+    {
+        Navigation.NavigateTo($"/login");
+    }
+    
+}

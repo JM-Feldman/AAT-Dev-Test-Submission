@@ -1,0 +1,14 @@
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\bin\Debug\net8.0\ThreadingApp.exe
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\bin\Debug\net8.0\ThreadingApp.deps.json
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\bin\Debug\net8.0\ThreadingApp.runtimeconfig.json
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\bin\Debug\net8.0\ThreadingApp.dll
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\bin\Debug\net8.0\ThreadingApp.pdb
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.AssemblyInfoInputs.cache
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.AssemblyInfo.cs
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.csproj.CoreCompileInputs.cache
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.dll
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\refint\ThreadingApp.dll
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.pdb
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ThreadingApp.genruntimeconfig.cache
+C:\Users\James\Desktop\AAT Dev Test\ThreadingApp\ThreadingApp\obj\Debug\net8.0\ref\ThreadingApp.dll

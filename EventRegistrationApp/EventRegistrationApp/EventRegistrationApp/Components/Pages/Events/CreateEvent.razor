@@ -1,0 +1,44 @@
+﻿@page "/create-event"
+@using EventRegistrationApp.Data
+@using EventRegistrationApp.Models
+@inject DataContext DbContext
+@inject NavigationManager Navigation
+
+<h3>Create Event</h3>
+
+<EditForm Model="newEvent" OnValidSubmit="HandleValidSubmit" FormName="createForm">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="eventName">Event Name</label>
+        <InputText id="eventName" class="form-control" @bind-Value="newEvent.EventName" />
+    </div>
+    <div class="form-group">
+        <label for="numSeats">Seats Available</label>
+        <InputNumber id="numSeats" class="form-control" @bind-Value="newEvent.NumSeatsAvailable" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Save</button>
+</EditForm>
+
+@code {
+    private Event newEvent = new Event
+        {
+            EventName = string.Empty
+        };
+
+    private string createForm = "createForm"; 
+
+    private async Task HandleValidSubmit()
+    {
+        DbContext.events.Add(newEvent);
+        await DbContext.SaveChangesAsync();
+        Navigation.NavigateTo("/events");
+    }
+}
+
+
+
+
+

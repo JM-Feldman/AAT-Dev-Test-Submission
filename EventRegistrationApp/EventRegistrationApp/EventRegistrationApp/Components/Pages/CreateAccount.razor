@@ -1,0 +1,54 @@
+﻿@page "/create-account"
+@using EventRegistrationApp.Data
+@using EventRegistrationApp.Models
+@inject DataContext DbContext
+@inject NavigationManager Navigation
+
+<h3>Create New Account</h3>
+
+@if (!string.IsNullOrEmpty(errorMessage))
+{
+    <p class="text-danger">@errorMessage</p>
+}
+
+<EditForm Model="newUser" OnValidSubmit="HandleValidSubmit">
+    <DataAnnotationsValidator />
+    <ValidationSummary />
+
+    <div class="form-group">
+        <label for="userName">Username</label>
+        <InputText id="userName" class="form-control" @bind-Value="newUser.UserName" />
+    </div>
+    <div class="form-group">
+        <label for="password">Password</label>
+        <InputText id="password" class="form-control" type="password" @bind-Value="newUser.PasswordHash" />
+    </div>
+    <div class="form-group">
+        <label for="registrationCode">Registration Code</label>
+        <InputText id="registrationCode" class="form-control" @bind-Value="newUser.RegistrationCode" />
+    </div>
+
+    <button type="submit" class="btn btn-primary">Create Account</button>
+</EditForm>
+
+@code {
+    private User newUser = new User();
+    private string errorMessage = "";
+
+    private async Task HandleValidSubmit()
+    {
+        var existingUser = DbContext.users.SingleOrDefault(x => x.UserName == newUser.UserName);
+        if (existingUser != null)
+        {
+            errorMessage = "Username already exists. Please choose a different username.";
+            return;
+        }
+
+        newUser.PasswordHash = BCrypt.Net.BCrypt.HashPassword(newUser.PasswordHash);
+
+        DbContext.users.Add(newUser);
+        await DbContext.SaveChangesAsync();
+        Navigation.NavigateTo("/login");
+    }
+}
+
