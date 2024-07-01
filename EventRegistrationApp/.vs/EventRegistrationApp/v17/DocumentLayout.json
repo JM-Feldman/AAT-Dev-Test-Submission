@@ -85,8 +85,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 12,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 10,
@@ -97,8 +101,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Routes.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T11:02:11.493Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T11:02:11.493Z"
             },
             {
               "$type": "Document",
@@ -110,8 +113,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\App.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T11:02:08.771Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T11:02:08.771Z"
             },
             {
               "$type": "Document",
@@ -123,8 +125,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Login.razor",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAACoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T10:46:57.523Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T10:46:57.523Z"
             },
             {
               "$type": "Document",
@@ -136,8 +137,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\CreateAccount.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T10:46:46.293Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T10:46:46.293Z"
             },
             {
               "$type": "Document",
@@ -149,8 +149,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Home.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T10:41:56.303Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T10:41:56.303Z"
             },
             {
               "$type": "Document",
@@ -162,8 +161,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Models\\User.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T09:46:32.738Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T09:46:32.738Z"
             },
             {
               "$type": "Document",
@@ -175,8 +173,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk-manifests\\8.0.100\\microsoft.net.workload.mono.toolchain.current\\8.0.5\\WorkloadManifest.targets",
               "ViewState": "AQIAAKQAAAAAAAAAAIAwwLkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-07-01T08:26:43.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:26:43.673Z"
             },
             {
               "$type": "Document",
@@ -188,8 +185,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\NavMenu.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T08:16:34.553Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:16:34.553Z"
             },
             {
               "$type": "Document",
@@ -201,8 +197,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Layout\\MainLayout.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T08:15:43.09Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:15:43.09Z"
             },
             {
               "$type": "Document",
@@ -214,8 +209,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\EditEvent.razor",
               "ViewState": "AQIAAA8AAAAAAAAAAIBJwCMAAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T08:13:11.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:13:11.831Z"
             },
             {
               "$type": "Document",
@@ -227,8 +221,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\CreateEvent.razor",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABkAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T08:11:39.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T08:11:39.608Z"
             },
             {
               "$type": "Document",
@@ -238,7 +231,7 @@
               "RelativeDocumentMoniker": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
               "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Components\\Pages\\Events\\ListEvents.razor",
-              "ViewState": "AQIAABIAAAAAAAAAAAAAADgAAAAFAAAA",
+              "ViewState": "AQIAABIAAAAAAAAAAAAYwDgAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-07-01T07:59:39.69Z",
               "EditorCaption": ""
@@ -253,8 +246,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp.Client\\_Imports.razor",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-07-01T07:53:11.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:53:11.669Z"
             },
             {
               "$type": "Document",
@@ -266,8 +258,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Migrations\\20240701074618_InitialCreate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:46:18.63Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:46:18.63Z"
             },
             {
               "$type": "Document",
@@ -279,8 +270,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Program.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-01T07:28:24.346Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-01T07:28:24.346Z"
             },
             {
               "$type": "Document",
@@ -292,8 +282,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-06-28T12:32:43.679Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T12:32:43.679Z"
             },
             {
               "$type": "Document",
@@ -305,8 +294,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Data\\DataContext.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T12:29:56.531Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T12:29:56.531Z"
             },
             {
               "$type": "Document",
@@ -318,8 +306,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\Models\\Event.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-28T12:26:48.787Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T12:26:48.787Z"
             },
             {
               "$type": "Document",
@@ -331,8 +318,7 @@
               "RelativeToolTip": "EventRegistrationApp\\EventRegistrationApp\\EventRegistrationApp.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-28T12:26:17.557Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-28T12:26:17.557Z"
             }
           ]
         }

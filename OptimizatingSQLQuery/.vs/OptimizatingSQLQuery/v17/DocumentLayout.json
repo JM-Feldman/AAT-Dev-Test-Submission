@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\James\\Desktop\\AAT Dev Test\\OptimizatingSQLQuery\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D785BF32-7720-4250-B634-7419166B633E}|OptimizatingSQLQuery\\OptimizatingSQLQuery.csproj|c:\\users\\james\\desktop\\aat dev test\\optimizatingsqlquery\\optimizatingsqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D785BF32-7720-4250-B634-7419166B633E}|OptimizatingSQLQuery\\OptimizatingSQLQuery.csproj|solutionrelative:optimizatingsqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D785BF32-7720-4250-B634-7419166B633E}|OptimizatingSQLQuery\\OptimizingSQLQuery.csproj|c:\\users\\james\\desktop\\aat dev test\\optimizatingsqlquery\\optimizatingsqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D785BF32-7720-4250-B634-7419166B633E}|OptimizatingSQLQuery\\OptimizingSQLQuery.csproj|solutionrelative:optimizatingsqlquery\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D785BF32-7720-4250-B634-7419166B633E}|OptimizatingSQLQuery\\OptimizingSQLQuery.csproj|c:\\users\\james\\desktop\\aat dev test\\optimizatingsqlquery\\optimizatingsqlquery\\classes\\received.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -27,15 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OptimizingSQLQuery",
+              "Title": "OptimizingSQLQuery.csproj",
               "DocumentMoniker": "C:\\Users\\James\\Desktop\\AAT Dev Test\\OptimizatingSQLQuery\\OptimizatingSQLQuery\\OptimizingSQLQuery.csproj",
               "RelativeDocumentMoniker": "OptimizatingSQLQuery\\OptimizingSQLQuery.csproj",
               "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\OptimizatingSQLQuery\\OptimizatingSQLQuery\\OptimizingSQLQuery.csproj",
               "RelativeToolTip": "OptimizatingSQLQuery\\OptimizingSQLQuery.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-06-27T10:32:35.362Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T10:32:35.362Z"
             },
             {
               "$type": "Document",
@@ -47,8 +46,7 @@
               "RelativeToolTip": "OptimizatingSQLQuery\\Classes\\Received.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-27T10:28:08.949Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-06-27T10:28:08.949Z"
             },
             {
               "$type": "Document",
@@ -58,7 +56,7 @@
               "RelativeDocumentMoniker": "OptimizatingSQLQuery\\Program.cs",
               "ToolTip": "C:\\Users\\James\\Desktop\\AAT Dev Test\\OptimizatingSQLQuery\\OptimizatingSQLQuery\\Program.cs",
               "RelativeToolTip": "OptimizatingSQLQuery\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAhAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-27T09:10:01.628Z",
               "EditorCaption": ""

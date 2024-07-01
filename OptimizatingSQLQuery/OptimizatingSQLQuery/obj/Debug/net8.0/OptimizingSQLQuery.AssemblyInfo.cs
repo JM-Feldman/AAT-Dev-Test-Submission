@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OptimizingSQLQuery")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a8ef0a2e596cf6616f7ea656ff4d51d6d556d21a")]
 [assembly: System.Reflection.AssemblyProductAttribute("OptimizingSQLQuery")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OptimizingSQLQuery")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
